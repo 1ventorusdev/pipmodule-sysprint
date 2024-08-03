@@ -1,0 +1,17 @@
+Name: sysprint
+Version: 0.1.1
+summary: system for help to create text
+License-file: LICENSE.txt
+Keywords: open
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Terminals
+Requires-Python: !=3.12.*,>=3.12
+
+Description
+-----------
+
+this project is created for help to create simple and clean text en CLI (Command Line Interface)

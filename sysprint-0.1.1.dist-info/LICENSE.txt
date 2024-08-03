@@ -1,0 +1,4 @@
+opensource project
+created by 1ventorus
+
+this project is created for help to create simple and clean text en CLI (Command Line Interface)
