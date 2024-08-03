@@ -31,7 +31,7 @@ Functions
             Print.status("c", "SET", "modification of data")
             => [ SET  ]  modification of data
 - For Execute a list of function or dico
-    list1 = [func1, func2] | dico1 = {func1: "text", func2: "text"}
+    *list1 = [func1, func2] | dico1 = {func1: "text", func2: "text"}*
     - Print.Execute.list(symbol, list of function, end symbol (default="OK"))
         exemple:
             Print.Execute.list("*", list1)
